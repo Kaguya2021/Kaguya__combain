@@ -18,5 +18,5 @@
 ### 1. Клонирование или скачивание проекта
 Скачайте архив с проектом или клонируйте репозиторий через терминал:
 ```bash
-git clone <ссылка-на-ваш-репозиторий>
+git clone <https://github.com/Kaguya2021/Kaguya__combain>
 cd bootloader_unlocker
